@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TariqHusainKhan
-- 👀 I’m interested in Backend Development.
+- 👀 I’m interested in ML/AI/Data Scientist role..
 - 🌱 I’m currently learning  Backend Development.
 - 💞️ I’m looking to collaborate on Backend Development Project
 - 📫 How to reach me ,my emailid--->tariqhusainkhan01@gmail.com
