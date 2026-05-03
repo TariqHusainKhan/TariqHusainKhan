@@ -10,6 +10,9 @@ Currently grinding on NLP and computer vision while looking for my first ML/AI r
 
 ## 🔨 Projects
 
+🚗 &nbsp;**[ENFORE v2 — Safe Multi-Modal Autonomous Driving](https://github.com/TariqHusainKhan/ENFORE-v2-Safe-Multimodal-Autonomous-Driving)** &nbsp;*(MTP Thesis)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multi-modal perception pipeline for safe autonomous driving — fuses camera and sensor data using deep neural networks to enable real-time scene understanding, obstacle detection, and safety-aware decision making in complex environments
+
 🤖 &nbsp;**[Small Language Model — Built From Scratch](https://github.com/TariqHusainKhan/Small-Language-Model-SLM-Built-From-Scratch)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decoder-only transformer (GPT-style): custom BPE tokenizer, multi-head self-attention, positional embeddings, nucleus sampling
 
