@@ -19,7 +19,7 @@ Currently grinding on NLP and computer vision while looking for my first ML/AI r
 🏥 &nbsp;**[Multimodal OCR Pipeline — Insurance Document Digitization](https://github.com/TariqHusainKhan/Multimodal-OCR-Insurance-Pipeline)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CNN + metadata fusion model to classify scanned insurance IDs — PyTorch, 10-epoch training with LR scheduling
 
-📈 &nbsp;**[Market Intelligence & Trend Analysis Engine](https://github.com/TariqHusainKhan/Market-Intelligence-Trend-Analysis-Engine)**
+📈 &nbsp;**[Market Intelligence & Trend Analysis Engine](https://github.com/TariqHusainKhan/market-trend-analysis)**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Trends time-series engine across 20+ categories — seasonal decomposition and COVID-era demand analysis to guide fitness product-growth strategy
 
 <br>
