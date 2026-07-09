@@ -1,6 +1,6 @@
 ## Hi, I'm Tariq 👋
 
-📍 &nbsp; 🧠 ML Engineer &nbsp;|&nbsp; 🔬 Building AI from scratch — not just using it.|| Bangalore, India &nbsp;
+📍 &nbsp; 🧠 AI Engineer &nbsp;|&nbsp; 🔬 Building AI from scratch — not just using it.|&nbsp; Bangalore, India 
 
 Deep in the weeds of transformers, tokenizers, and training loops.
 I build models from the ground up to actually understand how they work.
